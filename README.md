@@ -6,3 +6,4 @@
 
 * [Blackrota](./translations/malware/blackrota.md) - бэкдор, эксплуатация ошибки конфигурации, написан на Go.
 * [Pink](./translations/malware/pink.md) - ботнет, гибридное управление, обновляемая конфигурация.
+* [BotenaGo](./translations/malware/botenago.md) - ботнет, VT распознается как вариант Mirai, большой вектор атак на устройства.
