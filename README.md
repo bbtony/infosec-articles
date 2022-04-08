@@ -5,8 +5,7 @@
 написанных на Golang. Может быть полезна исследователям, различным сотрудникам по ИБ, пентестерам.
 
 **Malwares (переводы):**
-* ```noname``` - malware без имени
-* ```(?)``` - malware не разработанная на Golang, но является интересным примером (сетевое взаимодействие, работа с управляющим сервером и т.д.) 
+* ```noname``` - malware без имени 
 * ```-``` - отсутствие перевода
 
 
@@ -20,11 +19,17 @@
 | ElectroRAT     | 05.01.2021       | [ENG](https://www.intezer.com/blog/research/operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets/) | -                                         ||
 | Ezuri          | 07.01.2021       | [ENG](https://www.bleepingcomputer.com/news/security/linux-malware-authors-use-ezuri-golang-crypter-for-zero-detection/) | -                                         ||
 | Kinsing        | 03.09.2021       | [ENG](https://www.cyberark.com/resources/threat-research-blog/kinsing-the-malware-with-two-faces) | -                                         ||
-| Capoae        | 16.09.2021       | [ENG](https://www.akamai.com/blog/security/capoae-malware-ramps-up-uses-multiple-vulnerabilities-and-tactics-to-spread) | -                                         ||
+| Capoae         | 16.09.2021       | [ENG](https://www.akamai.com/blog/security/capoae-malware-ramps-up-uses-multiple-vulnerabilities-and-tactics-to-spread) | -                                         ||
 | DECAF          | 28.10.2021       | [ENG](https://blog.morphisec.com/decaf-ransomware-a-new-golang-threat-makes-its-appearance)      | -                                         ||
-| Pink (?)       | 29.10.2021       | [ENG](https://blog.netlab.360.com/pink-en/) | [RU](./translations/malware/pink.md)      |ботнет, гибридное управление, обновляемая конфигурация. |
 | BotenaGo       | 11.11.2021       | [ENG](https://cybersecurity.att.com/blogs/labs-research/att-alien-labs-finds-new-golang-malwarebotenago-targeting-millions-of-routers-and-iot-devices-with-more-than-30-exploits) | [RU](./translations/malware/botenago.md)  | ботнет, VT распознается как вариант Mirai, большой вектор атак на устройства. |
 | Linux_AVP      | 22.11.2021       | [ENG](https://thehackernews.com/2021/11/new-golang-based-linux-malware.html) | -                                         ||
 | TellYouThePass | 11.01.2022       | [ENG](https://www.crowdstrike.com/blog/tellyouthepass-ransomware-analysis-reveals-modern-reinterpretation-using-golang/) | -                                         | |
 | Next BotenaGo  | 26.01.2022       | [ENG](https://cybersecurity.att.com/blogs/labs-research/botenago-strike-again-malware-source-code-uploaded-to-github) | -                                         | |
 | Kraken         | 16.02.2022       | [ENG](https://www.zerofox.com/blog/meet-kraken-a-new-golang-botnet-in-development/) | -                                         | |
+| Go Elephant    | 01.04.2022       | [ENG](https://blog.malwarebytes.com/threat-intelligence/2022/04/new-uac-0056-activity-theres-a-go-elephant-in-the-room/) | -                                         | |
+
+Не являются Go-malwares, но интересные примеры и техники:
+
+| Name | Publication date | Original | Translation                               | Description                |
+|:-----|:-----------------| :------- |:------------------------------------------| :------------------------- |
+| Pink | 29.10.2021       | [ENG](https://blog.netlab.360.com/pink-en/) | [RU](./translations/malware/pink.md)      |ботнет, гибридное управление, обновляемая конфигурация. |
