@@ -27,6 +27,7 @@
 | DoNot Go       | 18.01.2022       | [ENG](https://www.welivesecurity.com/2022/01/18/donot-go-do-not-respawn/) | -                                         | |
 | Next BotenaGo  | 26.01.2022       | [ENG](https://cybersecurity.att.com/blogs/labs-research/botenago-strike-again-malware-source-code-uploaded-to-github) | -                                         | |
 | Kraken         | 16.02.2022       | [ENG](https://www.zerofox.com/blog/meet-kraken-a-new-golang-botnet-in-development/) | -                                         | |
+| PartyTicket   | 25.02.2022       | [ENG](https://www.zscaler.com/blogs/security-research/technical-analysis-partyticket-ransomware) |-||
 | Go Elephant    | 01.04.2022       | [ENG](https://blog.malwarebytes.com/threat-intelligence/2022/04/new-uac-0056-activity-theres-a-go-elephant-in-the-room/) | -                                         | |
 | Denonia        | 06.04.2022       | [ENG](https://www.cadosecurity.com/cado-discovers-denonia-the-first-malware-specifically-targeting-lambda/) | [RU](./translations/malware/denonia.md)                                         | |
 | BlackByte      | 03.05.2022       | [ENG](https://www.zscaler.com/blogs/security-research/analysis-blackbyte-ransomwares-go-based-variants) |-| RaaS  |
