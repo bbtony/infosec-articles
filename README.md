@@ -14,8 +14,10 @@
 | Analog Zebrocy | 30.01.2019       | [ENG](https://blog.malwarebytes.com/threat-analysis/2019/01/analyzing-new-stealer-written-golang/) | -                                         ||
 | Zebrocy        | 03.06.2019       | [ENG](https://securelist.com/zebrocys-multilanguage-malware-salad/90680/) | -                                         ||
 | <b>noname</b>  | 02.07.2019       | [ENG](https://www.f5.com/labs/articles/threat-intelligence/new-golang-malware-is-spreading-via-multiple-exploits-to-mine-mo) | -                                         ||
+| Kaiji   		 | 04.05.2020       | [ENG](https://www.intezer.com/blog/research/kaiji-new-chinese-linux-malware-turning-to-golang/) | -                                         |ботнет, брут ssh, ddos|
 | Golang PlugX   | 23.11.2020       | [ENG](https://www.proofpoint.com/us/blog/threat-insight/ta416-goes-ground-and-returns-golang-plugx-malware-loader) | -                                         ||
 | Blackrota      | 24.11.2020       | [ENG](https://blog.netlab.360.com/blackrota-a-heavily-obfuscated-backdoor-written-in-go/) | [RU](./translations/malware/blackrota.md) |бэкдор, эксплуатация ошибки конфигурации Docker, написан на Go. |
+| <b>noname</b>  | 29.12.2020       | [ENG](https://www.intezer.com/blog/research/new-golang-worm-drops-xmrig-miner-on-servers/) | - |"червь", майнер, постэксплуатация. |
 | ElectroRAT     | 05.01.2021       | [ENG](https://www.intezer.com/blog/research/operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets/) | -                                         ||
 | Ezuri          | 07.01.2021       | [ENG](https://www.bleepingcomputer.com/news/security/linux-malware-authors-use-ezuri-golang-crypter-for-zero-detection/) | -                                         ||
 | Kinsing        | 03.09.2021       | [ENG](https://www.cyberark.com/resources/threat-research-blog/kinsing-the-malware-with-two-faces) | -                                         ||
