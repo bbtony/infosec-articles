@@ -24,6 +24,7 @@
 | <b>noname</b>  | 29.12.2020       | [ENG](https://www.intezer.com/blog/research/new-golang-worm-drops-xmrig-miner-on-servers/) | - |"червь", майнер, постэксплуатация. |
 | ElectroRAT     | 05.01.2021       | [ENG](https://www.intezer.com/blog/research/operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets/) | -                                         ||
 | Ezuri          | 07.01.2021       | [ENG](https://www.bleepingcomputer.com/news/security/linux-malware-authors-use-ezuri-golang-crypter-for-zero-detection/) | -                                         ||
+| KlingonRAT          | 17.06.2021       | [ENG](https://www.intezer.com/blog/malware-analysis/klingon-rat-holding-on-for-dear-life/) | -                                         ||
 | Kinsing        | 03.09.2021       | [ENG](https://www.cyberark.com/resources/threat-research-blog/kinsing-the-malware-with-two-faces) | -                                         ||
 | Capoae         | 16.09.2021       | [ENG](https://www.akamai.com/blog/security/capoae-malware-ramps-up-uses-multiple-vulnerabilities-and-tactics-to-spread) | -                                         ||
 | DECAF          | 28.10.2021       | [ENG](https://blog.morphisec.com/decaf-ransomware-a-new-golang-threat-makes-its-appearance)      | -                                         ||
