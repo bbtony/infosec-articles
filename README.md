@@ -41,6 +41,7 @@
 | BlackByte      | 03.05.2022       | [ENG](https://www.zscaler.com/blogs/security-research/analysis-blackbyte-ransomwares-go-based-variants) |-| RaaS  |
 | Panchan        | 15.06.2022       | [ENG](https://www.akamai.com/blog/security/new-p2p-botnet-panchan) |-| Botnet  |
 | Backdoorit / Caligula | 13.07.2022       | [ENG](https://decoded.avast.io/davidalvarez/go-malware-on-the-rise/) |-|   |
+| Orchard | 05.08.2022       | [ENG](https://blog.netlab.360.com/a-new-botnet-orchard-generates-dga-domains-with-bitcoin-transaction-information/) |-| botnet |
 
 Не являются Go-malwares, но интересные примеры и техники:
 
