@@ -42,9 +42,8 @@
 | Panchan        | 15.06.2022       | [ENG](https://www.akamai.com/blog/security/new-p2p-botnet-panchan) |-| Botnet  |
 | Backdoorit / Caligula | 13.07.2022       | [ENG](https://decoded.avast.io/davidalvarez/go-malware-on-the-rise/) |-|   |
 | Orchard | 05.08.2022       | [ENG](https://blog.netlab.360.com/a-new-botnet-orchard-generates-dga-domains-with-bitcoin-transaction-information/) |-| botnet |
-
+| BianLian | 18.08.2022       | [ENG](https://blog.cyble.com/2022/08/18/bianlian-new-ransomware-variant-on-the-rise/) |-| ransomware |
 Не являются Go-malwares, но интересные примеры и техники:
-
 | Name | Publication date | Original | Translation                               | Description                |
 |:-----|:-----------------| :------- |:------------------------------------------| :------------------------- |
 | Pink | 29.10.2021       | [ENG](https://blog.netlab.360.com/pink-en/) | [RU](./translations/malware/pink.md)      |ботнет, гибридное управление, обновляемая конфигурация. |
