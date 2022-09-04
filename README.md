@@ -21,6 +21,7 @@
 | <b>noname</b>		 | 08.10.2019       | [ENG](https://www.fortinet.com/blog/threat-research/new-golang-ransomware-targeting-linux-systems) | -                                         |ransomware|
 | Snake (EKANS) #1| 02.03.2020       | [ENG](https://www.dragos.com/blog/industry-news/ekans-ransomware-and-ics-operations/) | -                                         |ransomware|
 | Kaiji   		 | 04.05.2020       | [ENG](https://www.intezer.com/blog/research/kaiji-new-chinese-linux-malware-turning-to-golang/) | -                                         |ботнет, брут ssh, ddos|
+| Glupteba       | 24.06.2020       | [ENG](https://news.sophos.com/en-us/2020/06/24/glupteba-report/) | -                                         | - |
 | Golang PlugX   | 23.11.2020       | [ENG](https://www.proofpoint.com/us/blog/threat-insight/ta416-goes-ground-and-returns-golang-plugx-malware-loader) | -                                         ||
 | Blackrota      | 24.11.2020       | [ENG](https://blog.netlab.360.com/blackrota-a-heavily-obfuscated-backdoor-written-in-go/) | [RU](./translations/malware/blackrota.md) |бэкдор, эксплуатация ошибки конфигурации Docker, написан на Go. |
 | <b>noname</b>  | 29.12.2020       | [ENG](https://www.intezer.com/blog/research/new-golang-worm-drops-xmrig-miner-on-servers/) | - |"червь", майнер, постэксплуатация. |
