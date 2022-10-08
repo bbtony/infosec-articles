@@ -59,6 +59,7 @@
 | Agenda         | 25.08.2022       | [ENG](https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html) |-| ransomware |
 | ModernLoader   | 30.08.2022       | [ENG](https://blog.talosintelligence.com/2022/08/modernloader-delivers-multiple-stealers.html) |-| miner |
 | Go webbfuscator | 31.08.2022       | [ENG](https://www.securonix.com/blog/golang-attack-campaign-gowebbfuscator-leverages-office-macros-and-james-webb-images-to-infect-systems) |-| |
+| Chaos | 28.09.2022       | [ENG](https://blog.lumen.com/chaos-is-a-go-based-swiss-army-knife-of-malware/) |-| |
 
 Не являются Go-malwares, но интересные примеры и техники:
 
