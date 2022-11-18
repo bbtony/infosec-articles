@@ -60,6 +60,9 @@
 | ModernLoader   | 30.08.2022       | [ENG](https://blog.talosintelligence.com/2022/08/modernloader-delivers-multiple-stealers.html) |-| miner |
 | Go webbfuscator | 31.08.2022       | [ENG](https://www.securonix.com/blog/golang-attack-campaign-gowebbfuscator-leverages-office-macros-and-james-webb-images-to-infect-systems) |-| |
 | Chaos | 28.09.2022       | [ENG](https://blog.lumen.com/chaos-is-a-go-based-swiss-army-knife-of-malware/) |-| |
+| Alchimist | 13.10.2022       | [ENG #1](https://blog.talosintelligence.com/alchimist-offensive-framework/) [ENG #2](https://socradar.io/new-alchimist-framework-targets-windows-macos-and-linux-systems)[ENG #3](http://blog.talosintelligence.com/2022/10/alchimist-offensive-framework.html)|-| offensive framework|
+| HackHound IRC Bot | 11.11.2022       | [ENG](https://asec.ahnlab.com/en/41806/) |-| |
+| Octocrypt | 22.11.2022       | [ENG](https://blog.cyble.com/2022/11/18/axlocker-octocrypt-and-alice-leading-a-new-wave-of-ransomware-campaigns/) |-| RaaS |
 
 Не являются Go-malwares, но интересные примеры и техники:
 
