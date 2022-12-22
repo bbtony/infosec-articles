@@ -1,6 +1,12 @@
 # is-articles
 # Go-malwares-history
 
+---
+Источник обновлений: [TI Reports](https://t.me/aptreports)
+Спасибо компании [RST Cloud](https://www.rstcloud.com/)
+
+---
+
 Репозиторий содержит ссылки на статьи и переводы, интересных материалов по и malware-reverse/development. Преимущественно 
 написанных на Golang. Может быть полезна исследователям, различным сотрудникам по ИБ, пентестерам.
 
@@ -41,8 +47,8 @@
 | PartyTicket    | 25.02.2022       | [ENG](https://www.zscaler.com/blogs/security-research/technical-analysis-partyticket-ransomware) |-||
 | njRAT    		 | 08.03.2022       | [ENG](https://asec.ahnlab.com/en/32450/) |-||
 | Go Elephant    | 01.04.2022       | [ENG](https://blog.malwarebytes.com/threat-intelligence/2022/04/new-uac-0056-activity-theres-a-go-elephant-in-the-room/) | -                                         | |
-| Denonia        | 06.04.2022       | [ENG](https://www.cadosecurity.com/cado-discovers-denonia-the-first-malware-specifically-targeting-lambda/) | [RU](./translations/malware/denonia.md)                                         | |
-| Hive           | 19.04.2022       | [ENG](https://www.cadosecurity.com/cado-discovers-denonia-the-first-malware-specifically-targeting-lambda/) | - | ransomware |
+| Denonia        | 06.04.2022       | [ENG #1](https://www.cadosecurity.com/cado-discovers-denonia-the-first-malware-specifically-targeting-lambda/) [ENG #2](https://www.cadosecurity.com/quick-update-on-recent-denonia-samples/)| [RU](./translations/malware/denonia.md)                                         | |
+| Hive           | 19.04.2022       | [ENG #1](https://www.cadosecurity.com/cado-discovers-denonia-the-first-malware-specifically-targeting-lambda/) [ENG #2](https://www.avertium.com/resources/threat-reports/an-update-on-hive-ransomware)| - | ransomware |
 | BlackByte      | 03.05.2022       | [ENG](https://www.zscaler.com/blogs/security-research/analysis-blackbyte-ransomwares-go-based-variants) |-| RaaS  |
 | oRat           | 09.05.2022       | [ENG](https://www.sentinelone.com/blog/from-the-front-lines-unsigned-macos-orat-malware-gambles-for-the-win/) | -                                         ||
 | Nerbian RAT    | 11.05.2022       | [ENG](https://www.proofpoint.com/us/blog/threat-insight/nerbian-rat-using-covid-19-themes-features-sophisticated-evasion-techniques) | -                                         ||
@@ -56,13 +62,20 @@
 | Orchard        | 05.08.2022       | [ENG](https://blog.netlab.360.com/a-new-botnet-orchard-generates-dga-domains-with-bitcoin-transaction-information/) |-| botnet |
 | Servhelper     | 12.08.2022       | [ENG](https://blog.talosintelligence.com/2021/08/raccoon-and-amadey-install-servhelper.html) |-| golang dropper |
 | BianLian       | 18.08.2022       | [ENG](https://blog.cyble.com/2022/08/18/bianlian-new-ransomware-variant-on-the-rise/) |-| ransomware |
-| Agenda         | 25.08.2022       | [ENG](https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html) |-| ransomware |
+| Agenda         | 25.08.2022       | [ENG #1](https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html) [ENG #2](https://www.trendmicro.com/en_us/research/22/l/agenda-ransomware-uses-rust-to-target-more-vital-industries.html)|-| ransomware |
 | ModernLoader   | 30.08.2022       | [ENG](https://blog.talosintelligence.com/2022/08/modernloader-delivers-multiple-stealers.html) |-| miner |
 | Go webbfuscator | 31.08.2022       | [ENG](https://www.securonix.com/blog/golang-attack-campaign-gowebbfuscator-leverages-office-macros-and-james-webb-images-to-infect-systems) |-| |
 | Chaos | 28.09.2022       | [ENG](https://blog.lumen.com/chaos-is-a-go-based-swiss-army-knife-of-malware/) |-| |
 | Alchimist | 13.10.2022       | [ENG #1](https://blog.talosintelligence.com/alchimist-offensive-framework/) [ENG #2](https://socradar.io/new-alchimist-framework-targets-windows-macos-and-linux-systems)[ENG #3](http://blog.talosintelligence.com/2022/10/alchimist-offensive-framework.html)|-| offensive framework|
 | HackHound IRC Bot | 11.11.2022       | [ENG](https://asec.ahnlab.com/en/41806/) |-| |
+| Aurora | 21.11.2022       | [ENG](https://blog.sekoia.io/aurora-a-rising-stealer-flying-under-the-radar/) |-| Stealer |
 | Octocrypt | 22.11.2022       | [ENG](https://blog.cyble.com/2022/11/18/axlocker-octocrypt-and-alice-leading-a-new-wave-of-ransomware-campaigns/) |-| RaaS |
+| Redigo | 01.12.2022       | [ENG](https://blog.aquasec.com/redigo-redis-backdoor-malware) |-| Backdoor |
+| Zerobot | 06.12.2022       | [ENG](https://www.fortinet.com/blog/threat-research/zerobot-new-go-based-botnet-campaign-targets-multiple-vulnerabilities) |-| Botnet |
+| Snake #3 | 12.12.2022       | [ENG](https://www.0ffset.net/reverse-engineering/analysing-snake-ransomware/) |-| Ransomware |
+| GoTrim | 12.12.2022       | [ENG](https://www.fortinet.com/blog/threat-research/gotrim-go-based-botnet-actively-brute-forces-wordpress-websites) |-| Botnet |
+| ChaosRat | 12.12.2022       | [ENG](https://www.trendmicro.com/en_us/research/22/l/linux-cryptomining-enhanced-via-chaos-rat-.html) |-| RAT |
+| ReadGoBot | 14.12.2022       | [CH](https://mp.weixin.qq.com/s/4iTA4LBNEnOQ5T5AcvZCCA) |-| - |
 
 Не являются Go-malwares, но интересные примеры и техники:
 
