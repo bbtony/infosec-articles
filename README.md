@@ -26,7 +26,7 @@
 | GoBotKR		 | 08.07.2019       | [ENG](https://www.welivesecurity.com/2019/07/08/south-korean-users-backdoor-torrents/) | -                                         ||
 | <b>noname</b>		 | 08.10.2019       | [ENG](https://www.fortinet.com/blog/threat-research/new-golang-ransomware-targeting-linux-systems) | -                                         |ransomware|
 | Snake (EKANS) #1| 02.03.2020       | [ENG](https://www.dragos.com/blog/industry-news/ekans-ransomware-and-ics-operations/) | -                                         |ransomware|
-| Kaiji   		 | 04.05.2020       | [ENG](https://www.intezer.com/blog/research/kaiji-new-chinese-linux-malware-turning-to-golang/) | -                                         |ботнет, брут ssh, ddos|
+| Kaiji   		 | 04.05.2020       | [ENG #1](https://www.intezer.com/blog/research/kaiji-new-chinese-linux-malware-turning-to-golang/) [ENG #2](https://sysdig.com/blog/chaos-malware-persistence-evasion-techniques)| -                                         |ботнет, брут ssh, ddos|
 | Glupteba       | 24.06.2020       | [ENG](https://news.sophos.com/en-us/2020/06/24/glupteba-report/) | -                                         | - |
 | Golang PlugX   | 23.11.2020       | [ENG](https://www.proofpoint.com/us/blog/threat-insight/ta416-goes-ground-and-returns-golang-plugx-malware-loader) | -                                         ||
 | Blackrota      | 24.11.2020       | [ENG](https://blog.netlab.360.com/blackrota-a-heavily-obfuscated-backdoor-written-in-go/) | [RU](./translations/malware/blackrota.md) |бэкдор, эксплуатация ошибки конфигурации Docker, написан на Go. |
@@ -59,23 +59,35 @@
 | Manjusaka      | 02.08.2022       | [ENG](https://blog.talosintelligence.com/2022/08/manjusaka-offensive-framework.html) |-| |
 | Snake (EKANS) #2| 03.08.2022       | [ENG](https://www.0ffset.net/reverse-engineering/analysing-snake-ransomware/) |-| ransomware |
 | LOLI Stealer   | 03.08.2022       |[ENG](https://blog.cyble.com/2022/08/03/loli-stealer-golang-based-infostealer-spotted-in-the-wild/)  |-| stealer|
-| Orchard        | 05.08.2022       | [ENG](https://blog.netlab.360.com/a-new-botnet-orchard-generates-dga-domains-with-bitcoin-transaction-information/) |-| botnet |
+| Orchard        | 05.08.2022       | [ENG #1](https://blog.netlab.360.com/a-new-botnet-orchard-generates-dga-domains-with-bitcoin-transaction-information/) [ENG #2](https://blog.netlab.360.com/a-new-botnet-orchard-generates-dga-domains-with-bitcoin-transaction-information/)|-| botnet |
 | Servhelper     | 12.08.2022       | [ENG](https://blog.talosintelligence.com/2021/08/raccoon-and-amadey-install-servhelper.html) |-| golang dropper |
-| BianLian       | 18.08.2022       | [ENG](https://blog.cyble.com/2022/08/18/bianlian-new-ransomware-variant-on-the-rise/) |-| ransomware |
+| BianLian       | 18.08.2022       | [ENG #1](https://blog.cyble.com/2022/08/18/bianlian-new-ransomware-variant-on-the-rise/) [ENG #2](https://www.avertium.com/resources/threat-reports/bianlian-ransomware-changes-faces)|-| ransomware |
 | Agenda         | 25.08.2022       | [ENG #1](https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html) [ENG #2](https://www.trendmicro.com/en_us/research/22/l/agenda-ransomware-uses-rust-to-target-more-vital-industries.html)|-| ransomware |
 | ModernLoader   | 30.08.2022       | [ENG](https://blog.talosintelligence.com/2022/08/modernloader-delivers-multiple-stealers.html) |-| miner |
 | Go webbfuscator | 31.08.2022       | [ENG](https://www.securonix.com/blog/golang-attack-campaign-gowebbfuscator-leverages-office-macros-and-james-webb-images-to-infect-systems) |-| |
 | Chaos | 28.09.2022       | [ENG](https://blog.lumen.com/chaos-is-a-go-based-swiss-army-knife-of-malware/) |-| |
 | Alchimist | 13.10.2022       | [ENG #1](https://blog.talosintelligence.com/alchimist-offensive-framework/) [ENG #2](https://socradar.io/new-alchimist-framework-targets-windows-macos-and-linux-systems)[ENG #3](http://blog.talosintelligence.com/2022/10/alchimist-offensive-framework.html)|-| offensive framework|
 | HackHound IRC Bot | 11.11.2022       | [ENG](https://asec.ahnlab.com/en/41806/) |-| |
-| Aurora | 21.11.2022       | [ENG](https://blog.sekoia.io/aurora-a-rising-stealer-flying-under-the-radar/) |-| Stealer |
+| Aurora | 21.11.2022       | [ENG #1](https://blog.sekoia.io/aurora-a-rising-stealer-flying-under-the-radar/) [ENG #2](https://d01a.github.io/aurora-stealer/) [ENG #3](https://blog.cyble.com/2023/01/18/aurora-a-stealer-using-shapeshifting-tactics)|-| Stealer |
 | Octocrypt | 22.11.2022       | [ENG](https://blog.cyble.com/2022/11/18/axlocker-octocrypt-and-alice-leading-a-new-wave-of-ransomware-campaigns/) |-| RaaS |
 | Redigo | 01.12.2022       | [ENG](https://blog.aquasec.com/redigo-redis-backdoor-malware) |-| Backdoor |
 | Zerobot | 06.12.2022       | [ENG](https://www.fortinet.com/blog/threat-research/zerobot-new-go-based-botnet-campaign-targets-multiple-vulnerabilities) |-| Botnet |
 | Snake #3 | 12.12.2022       | [ENG](https://www.0ffset.net/reverse-engineering/analysing-snake-ransomware/) |-| Ransomware |
 | GoTrim | 12.12.2022       | [ENG](https://www.fortinet.com/blog/threat-research/gotrim-go-based-botnet-actively-brute-forces-wordpress-websites) |-| Botnet |
 | ChaosRat | 12.12.2022       | [ENG](https://www.trendmicro.com/en_us/research/22/l/linux-cryptomining-enhanced-via-chaos-rat-.html) |-| RAT |
-| ReadGoBot | 14.12.2022       | [CH](https://mp.weixin.qq.com/s/4iTA4LBNEnOQ5T5AcvZCCA) |-| - |
+| RedGoBot | 14.12.2022       | [CH](https://mp.weixin.qq.com/s/4iTA4LBNEnOQ5T5AcvZCCA) |-| - |
+| Titan | 25.01.2023       | [ENG #1](https://www.uptycs.com/blog/titan-stealer-telegram-malware-campaign) [ENG #2](https://blog.cyble.com/2023/01/25/titan-stealer-the-growing-use-of-golang-among-threat-actors/) |-| Stealer |
+| Graphiron | 08.02.2023       | [ENG](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/nodaria-ukraine-infostealer) |-| Stealer |
+| Spark | 15.02.2023       | [ENG #1](https://www.sentinelone.com/labs/dragonspark-attacks-evade-detection-with-sparkrat-and-golang-source-code-interpretation/) [ENG #2](https://blog.phylum.io/phylum-discovers-go-based-rat-spark-being-distributed-on-pypi) |-| RAT |
+| GoBruteforcer | 10.03.2023       | [ENG](https://unit42.paloaltonetworks.com/gobruteforcer-golang-botnet/) |-| - |
+| HinataBot | 16.03.2023       | [ENG](https://www.akamai.com/blog/security-research/hinatabot-uncovering-new-golang-ddos-botnet) |-| Botnet |
+| DarkPower | 23.03.2023       | [ENG](https://www.trellix.com/en-us/about/newsroom/stories/research/shining-light-on-dark-power.html) |-| Ransomware |
+| AresLoader | 24.03.2023       | [ENG](https://intel471.com/blog/new-loader-on-the-bloc-aresloader) |-| - |
+| BabLock | 13.04.2023       | [ENG](https://www.group-ib.com/blog/bablock-ransomware/) |-| Ransomware |
+| CrossLock | 18.04.2023       | [ENG](https://blog.cyble.com/2023/04/18/crosslock-ransomware-emerges-new-golang-based-malware-on-the-horizon/) |-| Ransomware |
+| DarkBit | 21.04.2023       | [ENG #1](https://blogs.blackberry.com/en/2023/02/darkbit-ransomware-targets-israel) [ENG #2](https://labs.k7computing.com/index.php/muddywater-back-with-darkbit/) |-| Ransomware |
+| Tomiris | 24.04.2023       | [ENG](https://securelist.com/tomiris-called-they-want-their-turla-malware-back/109552/) |-| - |
+| AMOS | 26.04.2023       | [ENG](https://blog.cyble.com/2023/04/26/threat-actor-selling-new-atomic-macos-amos-stealer-on-telegram/) |-| Stealer |
 
 Не являются Go-malwares, но интересные примеры и техники:
 
